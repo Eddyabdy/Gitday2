@@ -20,4 +20,13 @@ public class DemoTest {
 	}
 	
 
+	public static void addnc(int a, int b) {
+		
+		
+		
+		
+	}
+	
+	
+	
 }
